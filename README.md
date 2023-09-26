@@ -46,4 +46,7 @@ conda activate chem274A_lab3
 
 You can then complete the lab by [following the tutorial](https://janash.github.io/amber-dna-tutorial/).
 
+Note that this is a tutorial that Dr. Nash is currently rewriting and updated for 2023. 
+Only the tutorial through implicit solvent simulation is finished, so you will not yet be able to do the explicit solvent simulation.
+
 
