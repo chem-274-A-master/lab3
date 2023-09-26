@@ -1,0 +1,11 @@
+name: chem274A_lab3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - jupyterlab
+  - ambertools
+  - nglview
+  - matplotlib
